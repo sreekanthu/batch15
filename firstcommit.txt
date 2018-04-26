@@ -1,2 +1,6 @@
 hi this is my first commit
 added through vi editor
+
+
+
+added ffile to github
