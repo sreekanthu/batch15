@@ -1,4 +1,1 @@
-this is my second commit  diff added
-
-this is for checkout testing
-
+this is my second commit
